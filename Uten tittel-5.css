@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+    background-image: url(ot-ot-1.jpg);
+    font-size: 30px;
+    color: whitesmoke;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
